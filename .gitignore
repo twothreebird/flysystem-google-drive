@@ -6,3 +6,5 @@ bin
 composer.lock
 composer.phar
 vendor
+
+.history/
