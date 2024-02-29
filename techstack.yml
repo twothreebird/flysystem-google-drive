@@ -1,0 +1,58 @@
+repo_name: twothreebird/flysystem-google-drive
+report_id: 8017f1bbbcb609e3b8d72d4775ed0f92
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-29T18:03:56+00:00'
+requested_by: nao-pon
+provider: github
+branch: master
+detected_tools_count: 4
+tools:
+- name: PHP
+  description: A popular general-purpose scripting language that is especially suited
+    to web development
+  website_url: http://www.php.net/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/991/hwUcGZ41_400x400.jpg
+  detection_source_url: https://github.com/twothreebird/flysystem-google-drive
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/twothreebird/flysystem-google-drive
+  detection_source: Repo Metadata
+- name: PHPUnit
+  description: Testing framework for PHP
+  website_url: https://phpunit.de/
+  version: '4.0'
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/1616/1_WsEnddd5Y4EgEHsT054kUQ.jpeg
+  detection_source_url: https://github.com/twothreebird/flysystem-google-drive/blob/master/composer.json
+  detection_source: composer.json
+  last_updated_by: nao-pon
+  last_updated_on: 2016-02-06 16:16:43.000000000 Z
+- name: Travis CI
+  description: A hosted continuous integration service for open source and private
+    projects
+  website_url: http://travis-ci.com/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/twothreebird/flysystem-google-drive/blob/master/.travis.yml
+  detection_source: ".travis.yml"
+  last_updated_by: nao-pon
+  last_updated_on: 2016-02-06 16:16:43.000000000 Z
